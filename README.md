@@ -1,4 +1,4 @@
-# Tercceiro Trimestre
+# Terceiro Trimestre
 
 ## Indetificação
 Lorena Araújo - Nr.20
