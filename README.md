@@ -1,8 +1,8 @@
 # Terceiro Trimestre
 
 ## Indetificação
-Lorena Araújo - Nr.20
+## Lorena Araújo - Nr.20
 
 ## Conteúdo
 
-html,css,javascript
+HTML,CSS,JAVASCRIPT
