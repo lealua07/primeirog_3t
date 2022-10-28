@@ -1,3 +1,14 @@
 .calc{
   backgroun: purple;
+  color:black
+    width:200px;
+  padding:10px;
+  border-radius:10px;
+  text-align:center;
+}
+.calc input{
+  background:white;
+    color: black;
+  border-radius: 5px;
+  padding:5px;
 }
