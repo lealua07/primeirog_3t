@@ -1,8 +1,7 @@
 # Terceiro Trimestre
 
-## Indetificação
-## Lorena Araújo - Nr.20
+## Identificação
+Lorena Araujo - Nr. 20
 
 ## Conteúdo
-
-## HTML,CSS,JAVASCRIPT
+HTML, CSS e javaScript
