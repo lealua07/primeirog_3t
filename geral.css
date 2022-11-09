@@ -1,33 +1,49 @@
 .calc {
-    background: rgb(112, 114, 236);
-    color: rgb(255, 255, 255);
+    background: rgb(55, 195, 219);
+    color: black;
     width: 200px;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    box-shadow: 5px 6px rgb(36, 28, 28);
 }
 .calc input {
-    background: crimson;
-    color: rgb(0, 0, 0);
+    background: darkblue;
+    color: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 5px;
 }
 #spTotal {
-    background: rgb(139, 11, 37);
-    color: rgb(0, 0, 0);
-    border-radius: 5px;
-    padding: 5px;
+    background: rgb(4, 4, 219);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
     margin-bottom: 10px;
 }
+.calc input:focus {
+    background: black;
+    color: yellow;
+}
 .calc button {
-    background: tomato;
-    color: rgb(19, 14, 19);
+    background: rgb(0, 26, 255);
+    color: rgb(255, 254, 254);
     border-radius: 10px;
     padding: 5px;
     margin-top: 10px;
 }
 .calc button:hover {
-    background: rgb(145, 48, 31);
-    color: rgb(19, 14, 19);
+    background: rgb(11, 24, 141);
+    color: rgb(255, 254, 254);
     cursor: pointer;
+}
+#spLista {
+    text-align: start;
+    border-style: dashed;
+    border-radius: dotted;
+    border-color: yellow;
+    border-width: 1px;
+    border-radius: 4px;
+    background: whitesmoke;
+    color: rebeccapurple;
+    margin-top: 10px;
 }
